@@ -1,0 +1,35 @@
+{
+    "bandtec": [
+      {
+        "id": 1,
+        "aula": "Pesquisa e Inovação - Alex",
+        "path":"https://us02web.zoom.us/j/87637237893?pwd=NzhCcjRPVTJOc0F4VXpUWkhMMzRqQT09",
+        "turma":"2ADSB"
+      },
+      {
+        "id": 2,
+        "aula": "Web - Yoshi",
+        "path":"https://us02web.zoom.us/j/82582972223?pwd=UzRCNHp6VHFCdE90ZTJGYURKUmpjQT09",
+        "turma":"2ADSB"
+      },
+      {
+        "id": 3,
+        "aula": "Estrutura de Dados - Célia",
+        "path":"https://us02web.zoom.us/j/84979814454?pwd=N2FqbmxsdThucDViNkc0YUM1em9JUT09",
+        "turma":"2ADSB"
+      },
+      {
+        "id": 4,
+        "aula": "Engenharia de Software - Gerson",
+        "path":"https://us02web.zoom.us/j/88475795584?pwd=NE1QQ0xjekw1QlNQNENOLzBuRnBMQT09",
+        "turma":"2ADSB"
+      },
+      {
+        "id": 4,
+        "aula": "Socioemocional - Leo",
+        "path":"https://us02web.zoom.us/j/87552348273?pwd=Q1RMYytXSUlNcWJHMnpNNEF2ZDN3dz09",
+        "turma":"2ADSB"
+      }
+    ]
+  }
+  
